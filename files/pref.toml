@@ -4,7 +4,7 @@ version = 1
 api_mode = true
 
 # Access token used for performing critical action through Web interface
-api_access_token = "password"
+api_access_token = "UmCkCHcF1AsQZfJpU3hT"
 
 # Default URLs, used when no URL is provided in request, use "|" to separate multiple subscription links, supports local files/URL
 default_url = []
@@ -145,7 +145,7 @@ import = "snippets/rename_node.toml"
 write_managed_config = true
 
 # Address prefix for MANAGED-CONFIG info, without the trailing "/".
-managed_config_prefix = ""
+managed_config_prefix = "https://sub.palees.com"
 
 # Managed config update interval in seconds, determine how long the config will be updated.
 config_update_interval = 86400
